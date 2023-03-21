@@ -1,11 +1,11 @@
 # bulletin-board-app
 
-Bulletin Board App
+
 The Bulletin Board App is a web application that allows users to create and post content on a virtual bulletin board. Users can create posts with a title, choose an author, write content, and add emojis as reactions to the post.
 
 Getting Started
 
-Installation
+INSTALLATION
 
 To install the Bulletin Board App, follow these steps:
 
@@ -13,7 +13,7 @@ Clone the repository to your local machine using the command: git clone https://
 Navigate to the project directory using the command: cd bulletin-board-app
 Install the dependencies using the command: npm install
 
-Running the App
+RUNNING THE APP
 
 To run the Bulletin Board App, follow these steps:
 
