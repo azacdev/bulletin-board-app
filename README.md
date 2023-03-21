@@ -3,7 +3,7 @@
 
 The Bulletin Board App is a web application that allows users to create and post content on a virtual bulletin board. Users can create posts with a title, choose an author, write content, and add emojis as reactions to the post.
 
-Getting Started
+GETTIND STARTED
 
 INSTALLATION
 
@@ -21,9 +21,9 @@ Navigate to the project directory using the command: cd bulletin-board-app
 Start the server using the command: npm start
 Open your browser and go to http://localhost:3000
 
-Usage
+USAGE
 
-Creating a Post
+CREATING A POST
 
 To create a post on the bulletin board, follow these steps:
 
@@ -32,9 +32,19 @@ Enter a post title in the "Title" field
 Choose an author from the dropdown menu
 Enter the content of your post in the "Content" field
 Click on the "Post" button to publish your post
-Adding Reactions
+
+ADDING REACTIONS
+
 To add a reaction to a post, follow these steps:
 
 Find the post you want to react to
 Click on the emoji icon located at the bottom of the post
 Choose an emoji from the list of available reactions
+
+TECHNOLOGIES USED
+
+This app was built using the following technologies:
+
+REACT, REDUX and CSS
+
+This app was built by [azacdev].
